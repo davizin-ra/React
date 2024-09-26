@@ -1,0 +1,14 @@
+.favorites{
+
+    width: 100%;
+    min-height: 702px;
+    padding-top: 68px;
+    display: flex;
+    flex-direction: column;
+}
+
+.favorites h2{
+
+    padding-block: 1rem;
+
+}

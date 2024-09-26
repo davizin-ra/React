@@ -1,0 +1,11 @@
+.search{
+    width: 100%;
+    min-height: 690px;
+    padding-top: 68px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+
